@@ -1,6 +1,6 @@
 # Algorithm_01
 
-## Case 1
+## Model 1
 
 ### 1. Model 
 ![1 - 1](https://user-images.githubusercontent.com/64300578/120978315-4d98dd00-c7af-11eb-997d-328f4b59dd20.PNG)
