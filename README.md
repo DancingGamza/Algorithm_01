@@ -20,6 +20,7 @@
 ### 1. Model 
 ![2 - 1 1](https://user-images.githubusercontent.com/64300578/120981451-a5851300-c7b2-11eb-85d1-d2dd49b8e1c9.PNG)
 ![2 - 1 2](https://user-images.githubusercontent.com/64300578/120981512-b2096b80-c7b2-11eb-9a67-1df058cf4f82.PNG)
+
 ![2 - 1 3](https://user-images.githubusercontent.com/64300578/120981543-b9c91000-c7b2-11eb-81c0-462795c061ff.PNG)
 ### 2. Training with Training loss 
 ![2 - 2](https://user-images.githubusercontent.com/64300578/120981574-c188b480-c7b2-11eb-8268-95a631961c7e.PNG)
