@@ -32,6 +32,23 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![2 - 5](https://user-images.githubusercontent.com/64300578/120981654-d6654800-c7b2-11eb-8408-67ea722b3f59.PNG)
 
+## Model 3
+
+### 1. Model 
+![3 - 1 1](https://user-images.githubusercontent.com/64300578/120986544-ad938180-c7b7-11eb-817a-c9b9a2a63211.PNG)
+![3 - 1 2](https://user-images.githubusercontent.com/64300578/120986596-b84e1680-c7b7-11eb-843a-115eb11e72ff.PNG)
+
+![3 - 1 3](https://user-images.githubusercontent.com/64300578/120986633-c2701500-c7b7-11eb-814c-19deb8cc778e.PNG)
+### 2. Training with Training loss 
+![3 - 2](https://user-images.githubusercontent.com/64300578/120986681-ce5bd700-c7b7-11eb-8210-a4ac82ebf750.PNG)
+### 3. Test Accuracy
+![3 - 3](https://user-images.githubusercontent.com/64300578/120986727-db78c600-c7b7-11eb-9a9b-b3c4f1f36369.PNG)
+### 4. Images and corresponding probability that predicted Right 
+![3 - 4](https://user-images.githubusercontent.com/64300578/120986755-e3386a80-c7b7-11eb-935f-44e5cbe1441a.PNG)
+### 5. Images and corresponding probability that predicted Wrong
+![3 - 5](https://user-images.githubusercontent.com/64300578/120986788-eaf80f00-c7b7-11eb-949a-e1c4db6cc393.PNG)
+
+
 
 
 
